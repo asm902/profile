@@ -1,0 +1,103 @@
+
+a {
+  text-decoration: none;
+  color: #ED217C;
+}
+body {
+  background-color: /*rgb(225,225,225)*/ /*#F4F9FC*/ #F2F4FF;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+}
+
+a:hover {
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+i {
+  font-size: 50px;  /*for the links to social media*/
+}
+
+ul {
+  list-style: none
+}
+
+.btn-magenta {
+  background-color: #ED217C;
+  color: white;
+  padding: 16px 24px;
+  border-radius: 4px;
+  margin-top: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#profile_pic {
+  border-radius: 50%;
+  max-width:100%;
+  height:auto;
+  border: 5px solid #134074;
+}
+
+.card-white {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 90%;
+  margin: 20px auto;
+}
+
+#card-bio {
+  border-top: 8px solid #ED217C;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  padding-bottom: 20px;
+}
+
+#card-bio p {
+  margin-bottom: 30px;
+}
+
+#p-bio {
+  font-size: 25px;
+  font-style: bold;
+}
+
+#social ul {
+  list-style: none;
+  padding: 0px;
+ }
+
+#social li {
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+  }
+
+.card-white h2 {
+  color: #2B303A;
+}
+
+.card-paragraph {
+  line-height: 25px;
+  font-size: 16px;
+  font-size: 18px;
+}
+
+#profile_pic_container {
+  max-width:350px;
+  display: inline-block;
+}
